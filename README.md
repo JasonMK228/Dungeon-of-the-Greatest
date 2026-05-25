@@ -1,4 +1,4 @@
-# ⚔️ Darkest Dungeon(Название тестовое): Text RPG
+# ⚔️ Dungeon of the Greatest: Пошаговое RPG
 Текстовая ролевая игра в стиле Darkest Dungeon, написанная на Python с использованием библиотеки Tkinter.
 
 ##  О проекте
